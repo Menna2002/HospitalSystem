@@ -16,6 +16,14 @@ This project is a Hospital Mangment System built using PHP and MySQL. It allows 
 - **Database:** MySQL
 - **Frontend:** Bootstrap
 
+## Contributors
+
+Hospital Mangment System is made possible by the contributions of the following team members:
+
+- Irinie Magued - Logical schema
+- Menna Allah Saed - physical schema + php interface
+
+
 ## Database Design
 
 ### 1. **ERD**
@@ -24,4 +32,4 @@ This project is a Hospital Mangment System built using PHP and MySQL. It allows 
 
 ### 2. **Schema**
 
-![Schema](Design/Schema.png)
+![Schema](Design/schema.png)
