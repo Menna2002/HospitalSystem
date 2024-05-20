@@ -6,7 +6,7 @@ This project is a Hospital Mangment System built using PHP and MySQL. It allows 
 
 ## Features
 
-- **User Login::** log in as Admin/user(doctor).
+- **User Login:** log in as Admin/user(doctor).
 - **Create Bills:** allow the admin to make checkout for patient (tratment prices + room based on type and days stayed)
 - **Assigned Rooms:** allow the doctors to know their assigned patients and rooms. 
 
@@ -22,7 +22,6 @@ Hospital Mangment System is made possible by the contributions of the following 
 
 - Irinie Magued - Logical schema
 - Menna Allah Saed - physical schema + php interface
-
 
 ## Database Design
 
