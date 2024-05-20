@@ -20,8 +20,8 @@ This project is a Hospital Mangment System built using PHP and MySQL. It allows 
 
 Hospital Mangment System is made possible by the contributions of the following team members:
 
-- **Irinie Magued :** Logical schema
-- **Menna Allah Saed :** physical schema + php interface
+- **Irinie Magued:** Logical schema
+- **Menna Allah Saed:** physical schema + php interface
 
 ## Database Design
 
